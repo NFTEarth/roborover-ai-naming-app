@@ -1,4 +1,7 @@
-# OpenAI API Quickstart - Node.js example app
+# OpenAI API App
+![image](https://github.com/westonnelson/roborover-ai-naming-app/assets/29180454/e625b3e7-9e16-44a4-8a40-a480ba6a64d6)
+
+NFTEarth plans to use AI in a large way in the futre, here is a fun app developed in-house to name your RoboRover!
 
 This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
